@@ -6,8 +6,8 @@
 
 def makeChange(coins, total):
     """
-    Determine the fewest number of coins needed to meet a given amount 
-    when given a pile of coins of different values.
+        Determine the fewest number of coins needed to meet a given amount
+        when given a pile of coins of different values.
     """
     if total <= 0:
         return 0
