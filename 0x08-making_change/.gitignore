@@ -1,0 +1,4 @@
+# Files to ignore are 
+__pycache__/
+0-main.py 
+
